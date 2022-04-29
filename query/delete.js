@@ -1,0 +1,1 @@
+db.users.deleteOne({user_id: 7});

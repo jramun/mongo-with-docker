@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mojtaba",
+      "address": {
+        "id": 1
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "street": "...",
+      "city": "..."
+    }
+  ]
+}

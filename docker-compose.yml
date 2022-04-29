@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  db:
+    image: mongo
+    working_dir: /data
+    ports:
+      - "27017:27017"
+    volumes:
+      - data:/data/db
+      - ./data/json/:/data/json/
+volumes:
+  data:
