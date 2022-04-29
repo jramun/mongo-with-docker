@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mojtaba <jramun7@gmail.com> (Ramun)",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  }
+}
